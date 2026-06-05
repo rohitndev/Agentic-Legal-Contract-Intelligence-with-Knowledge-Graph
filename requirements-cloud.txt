@@ -1,0 +1,28 @@
+# Optional integrations — install to upgrade individual components to their
+# production backends. None of these are required for the platform to run.
+#
+#   pip install -r requirements-cloud.txt
+#
+# Knowledge graph (Neo4j)            -> set NEO4J_URI / NEO4J_PASSWORD
+neo4j==5.27.0
+# Fine-tuned Legal-BERT NER & classifier -> set ENABLE_TRANSFORMERS=1
+transformers==4.46.3
+torch==2.5.1
+# Vector store (ChromaDB)            -> set ENABLE_CHROMA=1
+chromadb==0.5.23
+sentence-transformers==3.3.1
+# LLM narration / rewrites (Groq)    -> set GROQ_API_KEY
+groq==0.13.0
+# Agentic orchestration (LangGraph)
+langgraph==0.2.53
+langchain-core==0.3.21
+# Async processing (Celery)          -> set CELERY_BROKER_URL
+celery==5.4.0
+redis==5.2.1
+# Cloud storage (AWS S3)             -> set AWS_BUCKET
+boto3==1.35.71
+# Evaluation / MLOps
+mlflow==2.18.0
+ragas==0.2.6
+locust==2.32.3
+ruff==0.8.2

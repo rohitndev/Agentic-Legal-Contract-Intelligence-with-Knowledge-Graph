@@ -1,0 +1,48 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (the "Agreement") is made effective as of January 15, 2025 (the "Effective Date") by and between Northwind Technologies Inc., a Delaware corporation ("Provider"), and Globex Logistics LLC, a New York limited liability company ("Customer").
+
+1. DEFINITIONS
+"Services" means the software development and support services described in each Statement of Work. "Confidential Information" means any non-public information disclosed by one party to the other.
+
+2. SERVICES
+Provider shall perform the Services in accordance with the applicable Statement of Work. Provider must deliver each milestone by the dates set forth therein and will provide Customer with monthly progress reports.
+
+3. PAYMENT TERMS
+Customer shall pay all undisputed invoices net sixty (60) days from the date of invoice. Late payments shall accrue interest at the rate of 1.5% per month or the maximum rate permitted by law. Provider may suspend the Services if any invoice remains unpaid for more than thirty (30) days.
+
+4. TERM AND TERMINATION
+This Agreement shall commence on the Effective Date and continue for an initial term of two (2) years. This Agreement shall automatically renew for successive one (1) year terms unless either party provides written notice of non-renewal at least ninety (90) days prior to the end of the then-current term. The Provider may terminate this Agreement at any time, with or without cause, in its sole discretion, upon written notice to the Customer.
+
+5. INTELLECTUAL PROPERTY
+All intellectual property, including inventions, works of authorship, and know-how created by Provider in connection with the Services, shall be deemed work made for hire, and Provider hereby irrevocably assigns all right, title, and interest therein to the Customer.
+
+6. CONFIDENTIALITY
+Each party shall hold the other party's Confidential Information in strict confidence, shall not disclose it to any third party, and shall use it solely for the purpose of performing its obligations under this Agreement.
+
+7. INDEMNIFICATION
+Provider shall indemnify, defend, and hold harmless Customer and its affiliates from and against any and all claims, losses, liabilities, damages, costs, and expenses, including reasonable attorneys' fees, arising out of or related to the Services, without limitation.
+
+8. LIMITATION OF LIABILITY
+Notwithstanding anything to the contrary, the Provider's aggregate liability under this Agreement shall not be limited, and the Provider shall be liable for all direct, indirect, and consequential damages arising out of or relating to this Agreement.
+
+9. WARRANTIES
+THE SERVICES AND ALL DELIVERABLES ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, AND PROVIDER EXPRESSLY DISCLAIMS ALL WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+10. NON-COMPETE
+During the term of this Agreement and for a period of twenty-four (24) months thereafter, Provider shall not, directly or indirectly, engage in or be connected with any competing business that provides similar services to Customer's competitors within North America.
+
+11. EXCLUSIVITY
+Customer shall purchase the Services exclusively from Provider and shall not engage any other provider for similar services during the Term.
+
+12. AUDIT RIGHTS
+Customer shall have the right, upon reasonable notice and during normal business hours, to audit and inspect Provider's books and records to verify compliance with this Agreement.
+
+13. ASSIGNMENT
+Neither party may assign this Agreement without the prior written consent of the other party, except that either party may assign this Agreement to a successor in connection with a merger, acquisition, or change of control.
+
+14. LIQUIDATED DAMAGES
+In the event Provider fails to achieve a milestone by its scheduled date, Provider shall pay liquidated damages of USD 5,000 per day of delay until the milestone is achieved.
+
+15. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, and the parties submit to the exclusive jurisdiction of the courts located in Wilmington, Delaware.

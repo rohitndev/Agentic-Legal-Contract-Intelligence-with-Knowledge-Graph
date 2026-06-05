@@ -1,0 +1,20 @@
+# Render.com Blueprint — deploy the REST API as a free-tier web service.
+# Push to GitHub, then "New +" -> "Blueprint" and select this repo.
+services:
+  - type: web
+    name: legal-contract-intelligence
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.0"
+      - key: PYTHONUTF8
+        value: "1"
+      # Optional cloud backends — add in the Render dashboard as needed:
+      # - key: NEO4J_URI
+      # - key: NEO4J_PASSWORD
+      # - key: GROQ_API_KEY
+      # - key: AWS_BUCKET

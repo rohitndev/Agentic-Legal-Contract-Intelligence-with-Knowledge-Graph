@@ -1,0 +1,83 @@
+{
+  "uncapped_liability": {
+    "base_exposure_usd": 1800000,
+    "pct_of_contract_value": 1.0,
+    "claim_probability": 0.12,
+    "basis": "Industry claims data for uncapped liability disputes (CUAD benchmark)"
+  },
+  "unlimited_indemnification": {
+    "base_exposure_usd": 2500000,
+    "pct_of_contract_value": 1.5,
+    "claim_probability": 0.15,
+    "basis": "Average indemnification claim settlement, enterprise SaaS/services"
+  },
+  "unilateral_termination": {
+    "base_exposure_usd": 600000,
+    "pct_of_contract_value": 0.4,
+    "claim_probability": 0.20,
+    "basis": "Lost revenue / wind-down cost on early termination for convenience"
+  },
+  "auto_renewal": {
+    "base_exposure_usd": 250000,
+    "pct_of_contract_value": 0.25,
+    "claim_probability": 0.30,
+    "basis": "Unintended renewal cost over one additional term"
+  },
+  "non_compete": {
+    "base_exposure_usd": 400000,
+    "claim_probability": 0.10,
+    "basis": "Opportunity cost / litigation over restraint enforceability"
+  },
+  "exclusivity": {
+    "base_exposure_usd": 700000,
+    "pct_of_contract_value": 0.5,
+    "claim_probability": 0.12,
+    "basis": "Foregone channel revenue under exclusive dealing"
+  },
+  "ip_assignment": {
+    "base_exposure_usd": 1200000,
+    "claim_probability": 0.09,
+    "basis": "Valuation of assigned IP / loss of background rights"
+  },
+  "governing_law": {
+    "base_exposure_usd": 120000,
+    "claim_probability": 0.08,
+    "basis": "Incremental cost of litigating in an unfavorable forum"
+  },
+  "liquidated_damages": {
+    "base_exposure_usd": 900000,
+    "claim_probability": 0.18,
+    "basis": "Accrued liquidated damages exposure on milestone delay"
+  },
+  "warranty_disclaimer": {
+    "base_exposure_usd": 500000,
+    "claim_probability": 0.14,
+    "basis": "Uncovered defect / remediation cost under as-is delivery"
+  },
+  "confidentiality": {
+    "base_exposure_usd": 350000,
+    "claim_probability": 0.07,
+    "basis": "Breach-of-confidentiality damages and notification cost"
+  },
+  "audit_rights": {
+    "base_exposure_usd": 150000,
+    "claim_probability": 0.10,
+    "basis": "Audit true-up and compliance remediation cost"
+  },
+  "assignment_restriction": {
+    "base_exposure_usd": 300000,
+    "claim_probability": 0.06,
+    "basis": "Deal-blocking / consent cost on change of control"
+  },
+  "payment_terms_risk": {
+    "base_exposure_usd": 200000,
+    "pct_of_contract_value": 0.15,
+    "claim_probability": 0.22,
+    "basis": "Working-capital and late-fee exposure on extended terms"
+  },
+  "force_majeure_gap": {
+    "base_exposure_usd": 450000,
+    "claim_probability": 0.11,
+    "basis": "Non-excused non-performance loss during a disruption event"
+  }
+}

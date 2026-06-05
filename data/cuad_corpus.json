@@ -1,0 +1,128 @@
+[
+  {
+    "clause_id": "CUAD-0001",
+    "category": "uncapped_liability",
+    "category_name": "Uncapped Liability",
+    "source_contract": "Master Services Agreement (CUAD)",
+    "text": "Notwithstanding anything to the contrary, the Supplier's aggregate liability under this Agreement shall not be limited and the Supplier shall be liable for all direct, indirect, and consequential damages arising out of or relating to this Agreement."
+  },
+  {
+    "clause_id": "CUAD-0002",
+    "category": "uncapped_liability",
+    "category_name": "Uncapped Liability",
+    "source_contract": "Reseller Agreement (CUAD)",
+    "text": "In no event shall either party's total liability exceed the fees paid by Customer in the twelve (12) months preceding the event giving rise to the claim, except for liability arising from indemnification obligations, which shall be unlimited."
+  },
+  {
+    "clause_id": "CUAD-0003",
+    "category": "unlimited_indemnification",
+    "category_name": "Unlimited Indemnification",
+    "source_contract": "Software License Agreement (CUAD)",
+    "text": "Licensee shall indemnify, defend, and hold harmless Licensor and its affiliates from and against any and all claims, losses, liabilities, damages, costs, and expenses (including reasonable attorneys' fees) arising out of or related to Licensee's use of the Software, without limitation."
+  },
+  {
+    "clause_id": "CUAD-0004",
+    "category": "unlimited_indemnification",
+    "category_name": "Unlimited Indemnification",
+    "source_contract": "Distribution Agreement (CUAD)",
+    "text": "Each party shall indemnify the other against third-party claims arising from its own gross negligence or willful misconduct; such indemnity shall be the indemnifying party's sole obligation and capped at the total contract value."
+  },
+  {
+    "clause_id": "CUAD-0005",
+    "category": "unilateral_termination",
+    "category_name": "Unilateral Termination",
+    "source_contract": "Consulting Agreement (CUAD)",
+    "text": "The Company may terminate this Agreement at any time, with or without cause, in its sole discretion, upon written notice to the Consultant, and shall have no further obligation other than payment for services rendered through the date of termination."
+  },
+  {
+    "clause_id": "CUAD-0006",
+    "category": "unilateral_termination",
+    "category_name": "Unilateral Termination",
+    "source_contract": "Supply Agreement (CUAD)",
+    "text": "Either party may terminate this Agreement for convenience upon ninety (90) days' prior written notice to the other party."
+  },
+  {
+    "clause_id": "CUAD-0007",
+    "category": "auto_renewal",
+    "category_name": "Auto-Renewal",
+    "source_contract": "Subscription Agreement (CUAD)",
+    "text": "This Agreement shall automatically renew for successive one (1) year terms unless either party provides written notice of non-renewal at least sixty (60) days prior to the end of the then-current term."
+  },
+  {
+    "clause_id": "CUAD-0008",
+    "category": "non_compete",
+    "category_name": "Non-Compete",
+    "source_contract": "Employment Agreement (CUAD)",
+    "text": "During the term of employment and for a period of twenty-four (24) months thereafter, the Employee shall not, directly or indirectly, engage in or be connected with any competing business within the restricted territory."
+  },
+  {
+    "clause_id": "CUAD-0009",
+    "category": "exclusivity",
+    "category_name": "Exclusivity",
+    "source_contract": "Distribution Agreement (CUAD)",
+    "text": "The Distributor shall be the sole and exclusive distributor of the Products within the Territory, and the Supplier shall not appoint any other distributor or sell the Products directly within the Territory during the Term."
+  },
+  {
+    "clause_id": "CUAD-0010",
+    "category": "ip_assignment",
+    "category_name": "IP Assignment",
+    "source_contract": "Development Agreement (CUAD)",
+    "text": "All intellectual property, including inventions, works of authorship, and know-how, created by the Contractor in connection with the Services shall be deemed work made for hire and the Contractor hereby irrevocably assigns all right, title, and interest therein to the Company."
+  },
+  {
+    "clause_id": "CUAD-0011",
+    "category": "governing_law",
+    "category_name": "Governing Law",
+    "source_contract": "Master Services Agreement (CUAD)",
+    "text": "This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws principles, and the parties submit to the exclusive jurisdiction of the courts located in Wilmington, Delaware."
+  },
+  {
+    "clause_id": "CUAD-0012",
+    "category": "liquidated_damages",
+    "category_name": "Liquidated Damages",
+    "source_contract": "Construction Agreement (CUAD)",
+    "text": "In the event the Contractor fails to achieve substantial completion by the Milestone Date, the Contractor shall pay liquidated damages of USD 5,000 per day of delay, which the parties agree is a reasonable estimate of actual damages."
+  },
+  {
+    "clause_id": "CUAD-0013",
+    "category": "warranty_disclaimer",
+    "category_name": "Warranty Disclaimer",
+    "source_contract": "Software License Agreement (CUAD)",
+    "text": "THE SOFTWARE IS PROVIDED \"AS IS\" WITHOUT WARRANTY OF ANY KIND, AND LICENSOR EXPRESSLY DISCLAIMS ALL WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE."
+  },
+  {
+    "clause_id": "CUAD-0014",
+    "category": "confidentiality",
+    "category_name": "Confidentiality",
+    "source_contract": "Mutual NDA (CUAD)",
+    "text": "Each party shall hold the other party's Confidential Information in strict confidence, shall not disclose it to any third party, and shall use it solely for the purpose of performing its obligations under this Agreement."
+  },
+  {
+    "clause_id": "CUAD-0015",
+    "category": "audit_rights",
+    "category_name": "Audit Rights",
+    "source_contract": "License Agreement (CUAD)",
+    "text": "Licensor shall have the right, upon reasonable notice and during normal business hours, to audit and inspect Licensee's books and records to verify compliance with the payment and usage terms of this Agreement."
+  },
+  {
+    "clause_id": "CUAD-0016",
+    "category": "assignment_restriction",
+    "category_name": "Assignment Restriction",
+    "source_contract": "Master Services Agreement (CUAD)",
+    "text": "Neither party may assign this Agreement, in whole or in part, without the prior written consent of the other party, except that either party may assign this Agreement to a successor in connection with a merger, acquisition, or change of control."
+  },
+  {
+    "clause_id": "CUAD-0017",
+    "category": "payment_terms_risk",
+    "category_name": "Payment Terms Risk",
+    "source_contract": "Supply Agreement (CUAD)",
+    "text": "Customer shall pay all undisputed invoices net thirty (30) days from the date of invoice. Late payments shall accrue interest at the rate of one and one-half percent (1.5%) per month or the maximum rate permitted by law, whichever is lower."
+  },
+  {
+    "clause_id": "CUAD-0018",
+    "category": "force_majeure_gap",
+    "category_name": "Force Majeure Gap",
+    "source_contract": "Manufacturing Agreement (CUAD)",
+    "text": "Neither party shall be liable for any failure or delay in performance due to causes beyond its reasonable control, including acts of God, war, terrorism, epidemic, pandemic, or governmental action, provided the affected party gives prompt notice."
+  }
+]
